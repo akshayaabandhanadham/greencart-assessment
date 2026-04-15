@@ -48,5 +48,5 @@ npm start
 ---
 
 ## 👩‍💻 Author
-Akshaya Abandhanadham  
+Akshaya Bandhanadham  
 GitHub Profile: https://github.com/akshayaabandhanadham
